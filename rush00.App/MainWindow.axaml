@@ -5,5 +5,5 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="rush00.App.MainWindow"
         Title="rush00.App">
-    Welcome to Avalonia!
+    This is my new text!
 </Window>
